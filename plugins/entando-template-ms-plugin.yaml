@@ -1,4 +1,4 @@
-image: hussainnv/strapi-test_25aug:4.0.0
+image: hussainnv/strapi-test_25aug:5.0.0
 dbms: postgresql
 ingressPath: "/entando-template-node-api"
 healthCheckPath: "/api/actuator/health"
